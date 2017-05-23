@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Patrick Morris'
 SITENAME = 'PRM Codes'
-SITEURL = ''
+SITEURL = 'prmcodes.github.io'
+THEME = "pelican-themes/subtle"
 
 PATH = 'content'
 
